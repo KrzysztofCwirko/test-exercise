@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test Exercise</string>
+    <string name="exit">Exits</string>
+    <string name="scoring_table">Scoring table</string>
+    <string name="scoring">Scoring</string>
+    <string name="done">Done</string>
+    <string name="score">Score</string>
+    <string name="game_time">Game time</string>
+    <string name="date">Date</string>
+    <string name="moves">Moves</string>
+    <string name="half_of_the_line">Half of the line.</string>
+    <string name="separation_line_icon">Separation line icon.</string>
+</resources>
